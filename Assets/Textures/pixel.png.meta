@@ -1,0 +1,251 @@
+fileFormatVersion: 2
+guid: 7bad2972996172744a555cf09ae3dfa0
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pixel_0
+    21300002: pixel_1
+    21300004: pixel_2
+    21300006: pixel_3
+    21300008: pixel_4
+    21300010: pixel_5
+    21300012: pixel_6
+    21300014: pixel_7
+    21300016: pixel_8
+    21300018: pixel_9
+    21300020: pixel_10
+    21300022: pixel_11
+    21300024: pixel_12
+    21300026: pixel_13
+    21300028: pixel_14
+    21300030: pixel_15
+    21300032: pixel_16
+    21300034: pixel_17
+    21300036: pixel_18
+    21300038: pixel_19
+    21300040: pixel_20
+    21300042: pixel_21
+    21300044: pixel_22
+    21300046: pixel_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: pixel_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pixel_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 138
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pixel_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 138
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pixel_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 140
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pixel_4
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 138
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pixel_6
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 137
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pixel_8
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pixel_9
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pixel_14
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 102
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pixel_15
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 102
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pixel_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 102
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pixel_17
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 90
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pixel_18
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 94
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pixel_19
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 99
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pixel_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 14
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pixel_21
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 47
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pixel_22
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 0
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pixel_23
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 54
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

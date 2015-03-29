@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: 97a436996210124409d84c0401b4dc0c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Green Warrior
+    21300002: Green Mage
+    21300004: Green Archer
+    21300006: Red Warrior
+    21300008: Red Mage
+    21300010: Red Archer
+    21300012: Star
+    21300014: Crown
+    21300016: Target
+    21300018: Damage
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Star
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 10
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crown
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 19
+        width: 127
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Warrior
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 48
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Mage
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 51
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Red Archer
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 51
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Green Warrior
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 15
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Green Mage
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 14
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Green Archer
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 14
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
