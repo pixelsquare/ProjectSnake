@@ -28,7 +28,7 @@ public class ParticlePopup : MonoBehaviour {
 	public void Initialize(int num) {
 		Material material = null;
 		if (numberDictionary.TryGetValue(num, out material)) {
-			pSystem.renderer.sharedMaterial = material;
+			pSystem.GetComponent<Renderer>().sharedMaterial = material;
 		}
 	}
 }
